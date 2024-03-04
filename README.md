@@ -4,7 +4,7 @@
 
 ## What is PianoApp?
 
-PianoApp is a piano painting made with html and css.
+PianoApp is a piano design created using HTML and CSS.
 
 ## Technologies Used
 
